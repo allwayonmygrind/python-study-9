@@ -50,7 +50,7 @@ a[1:3] = ['a', 'b']
 print(a)
 
 a[1:3]=['x']
-print a
+print(a)
 
 a + [60, 70, 80]
 print(a)
