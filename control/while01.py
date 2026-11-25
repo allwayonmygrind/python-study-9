@@ -35,6 +35,7 @@ while dice != 3: #특정 조건이 만족할 때 끝. (사전에 몇회 돌아�
 
 #입력값이 0이 입력될 때까지, 입력된 모든 수의 합
 # break 종료
+
 total = 0
 while True:
     num = int(input('숫자입력(0 입력시 종료) : '))
