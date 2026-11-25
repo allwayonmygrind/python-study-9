@@ -47,6 +47,7 @@ lux['mana_regen'] = 3.28     #신규로 추가
 
 print(lux)
 
+# .get #입력된 이름의 키의 값을 출력함 없으면 None
 print(lux['mana'])
 print(lux.get('mana'))
 print(lux.get('attack')) # 존재하지 않는 값이라서 None이라 뜬다
